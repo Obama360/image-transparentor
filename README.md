@@ -6,6 +6,5 @@ python script to make certain color in image transparent
 Get Thonny: [Thonny](https://thonny.org/)
 ### Install numpy & PIL
 You can do that via Package Manager built in to Thonny
-
-## Run Script
+### Run Script
 Well, thats as easy as to open the script in Thonny, setting the setting strings to your wishes and hit the run button.
