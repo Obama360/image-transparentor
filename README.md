@@ -1,6 +1,6 @@
 # image-transparentor
 ### python script to replace color scopes with another color or make them transparent!
-![image processor GUI](gui.png)
+![image processor GUI](window_sample.png)
 
 ## Executable Installation / How to use (Windows olny)
 Download the executeable version from this repository and run it
