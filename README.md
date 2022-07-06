@@ -1,7 +1,7 @@
 # image-transparentor
 python script to make certain color in image transparent
-## New also with GUI! :O :O :O :O (Crazy)!!!1
-
+### New also with GUI! :O :O :O :O (Crazy)!!!1
+![image processor GUI](gui.png)
 
 
 ## Installation / How to use
