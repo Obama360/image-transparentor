@@ -1,6 +1,6 @@
 # image-transparentor
 ### python script to replace color scopes with another color or make them transparent!
-![image processor GUI](window_sample.png)
+![image processor GUI](window_example.png)
 
 ## Executable Installation / How to use (Windows olny)
 Download the executeable version from this repository and run it
@@ -17,6 +17,6 @@ Well, thats as easy as to open the script in Thonny, setting the setting strings
 You can do that with pyinstaller (get it with pip)
 
 Then open a system shell in Thonny and run the following command:
-```batch
+```
 pyinstaller --noconsole --onefile <path to the downloaded script>
 ```
