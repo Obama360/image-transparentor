@@ -4,8 +4,8 @@ from PIL import Image
 color = [255,255,255] #rgb value
 tolerance = 120 #between 0 and 255
 replace = [0,0,0,0] #rgba value for png, rgb for jpg
+imagepath="C:\\Pictures\\python\\original.png"
 
-imagepath="C:\\Users\\802042\\Pictures\\python\\original.png"
 print("opening image...")
 img = Image.open(imagepath, 'r')
 height, width = img.size
