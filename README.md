@@ -17,6 +17,6 @@ Well, thats as easy as to open the script in Thonny, setting the setting strings
 You can do that with pyinstaller (get it with pip)
 
 Then open a system shell in Thonny and run the following command:
-```cmd
+```batch
 pyinstaller --noconsole --onefile <path to the downloaded script>
 ```
